@@ -1,0 +1,17 @@
+
+
+body{
+	background:  #f4f3ef;
+  margin-left: 20%;
+  margin-right: 50%;
+}
+
+.im {border: 1.5px grey solid; margin-left: 20%; }
+
+.href {font-style: italic;}
+
+h1 { margin-left: 5%; font-family: sans-serif;}
+
+.grey {color: #676666;}
+
+.ftb {margin-left: 5%;}
